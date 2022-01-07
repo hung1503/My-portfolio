@@ -410,7 +410,6 @@ img {
     display: block;
     align-items: center;
     margin-bottom: var(--mb-2-5);
-    cursor: pointer;
 }
 
 .skills__icon, .skills__arrow{
@@ -474,7 +473,7 @@ img {
 }
 
 .skills__react{
-    width:50%;
+    width:70%;
 }
 
 .skills__nodejs{
@@ -483,6 +482,14 @@ img {
 
 .skills__php{
     width:40%;
+}
+
+.skills__reacttesting{
+    width:50%;
+}
+
+.skills__cypress {
+    width:60%;
 }
 
 .skills__list .skills__close {
